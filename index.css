@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(52, 136, 188)
+ 
+ }
+ .main-container{
+    margin:10px 0px 0px 40px;
+    font-weight: bolder;  
+ }
+ table{
+    font-size: small;
+    width: min-content;
+ }
+ .gender{
+    display: inline-block;
+ 
+ }
+ 
